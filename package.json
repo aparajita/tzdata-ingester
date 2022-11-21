@@ -1,0 +1,22 @@
+{
+  "name": "tzdata-ingester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "csv-writer": "^1.6.0",
+    "got-scraping": "^3.2.12",
+    "htmlparser2": "^8.0.1",
+    "json-as-xlsx": "^2.4.6"
+  }
+}
